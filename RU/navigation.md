@@ -19,8 +19,11 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[About](pages/about.md)
-[Download](pages/download.md)
+[Экстренные и государственные службы](pages/emergency.md)
+[Транспорт](pages/transport.md)
+[Магазины, услуги и развлечения](pages/shops.md)
+[Прочее](pages/misc.md)
+[Инструкция по редактированию](pages/editguide.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
