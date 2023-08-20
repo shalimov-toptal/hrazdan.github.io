@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="custom.css">
+
+
 <!--
   -- Name of your wiki
   -- Do NOT remove the leading `#` character.
