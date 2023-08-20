@@ -3,5 +3,5 @@
   "anchorCharacter": "#",
   "lineBreaks": "gfm",
   "title": "Справочник Раздана",
-  "useSideMenu": false
+  "useSideMenu": true
 }
